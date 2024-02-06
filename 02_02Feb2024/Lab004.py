@@ -1,0 +1,6 @@
+#Take user input (name, age, roll_number,phone_number)
+name = input("Enter your name")
+age = input("Enter your age")
+roll_number = input("Enter your roll_number")
+phone_number = input("Enter your phone_number")
+print("This is your user details :","\n Name :",name,"\n Age :" ,age,"\n roll_number :",roll_number,"\n phone_number :",phone_number)

@@ -1,0 +1,6 @@
+print("MS","Dhoni","Ranchi","49",sep="_")
+print("MS","Dhoni","Ranchi","49")
+print("MS","Dhoni","Ranchi","49",end="$")
+print("MS","Dhoni","Ranchi","49")
+result = max(2,4)
+print(result)
