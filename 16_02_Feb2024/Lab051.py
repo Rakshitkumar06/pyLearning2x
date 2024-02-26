@@ -1,6 +1,6 @@
 tuple3 = tuple(["Pramod", "Lucky"])
 print(tuple3)
-print(tuple3[1])
+print(tuple3[1  ])
 
 hero1 = ("Batman", "Bruce Wayne")
 hero2 = ("Wonder Woman", "Diana Prince")
